@@ -1,4 +1,5 @@
 # 📦 Inventory Management System
+
 A simple **Python-based Inventory Management System** that allows users to manage product inventory efficiently. The application is built using **functional programming**, stores data in a **JSON file**, and provides an easy-to-use console interface.
 
 ---
